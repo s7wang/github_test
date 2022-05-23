@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmypow.a CMakeFiles/mypow.dir/src/include/mypow.cpp.o
+/usr/bin/ranlib libmypow.a

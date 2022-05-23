@@ -1,0 +1,8 @@
+/home/wangs7/VSCode/test_cmake/build/CMakeFiles/install/strip.dir
+/home/wangs7/VSCode/test_cmake/build/CMakeFiles/install/local.dir
+/home/wangs7/VSCode/test_cmake/build/CMakeFiles/exec.dir
+/home/wangs7/VSCode/test_cmake/build/CMakeFiles/mypow.dir
+/home/wangs7/VSCode/test_cmake/build/CMakeFiles/edit_cache.dir
+/home/wangs7/VSCode/test_cmake/build/CMakeFiles/rebuild_cache.dir
+/home/wangs7/VSCode/test_cmake/build/CMakeFiles/list_install_components.dir
+/home/wangs7/VSCode/test_cmake/build/CMakeFiles/install.dir

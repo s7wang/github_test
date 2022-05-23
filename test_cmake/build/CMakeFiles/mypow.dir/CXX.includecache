@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wangs7/VSCode/test_cmake/src/include/mypow.cpp
+mypow.h
+/home/wangs7/VSCode/test_cmake/src/include/mypow.h
+stdio.h
+-
+
+/home/wangs7/VSCode/test_cmake/src/include/mypow.h
+

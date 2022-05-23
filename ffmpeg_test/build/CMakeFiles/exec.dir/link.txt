@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/exec.dir/test.cpp.o -o exec   -L/ffmpeg/lib  -Wl,-rpath,/ffmpeg/lib -lavcodec 

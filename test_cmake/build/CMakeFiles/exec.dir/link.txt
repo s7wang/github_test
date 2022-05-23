@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/exec.dir/src/main.cpp.o -o exec  libmypow.a 

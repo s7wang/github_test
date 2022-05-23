@@ -1,0 +1,3 @@
+/home/wangs7/mypow/exec
+/home/wangs7/mypow/libmypow.a
+/home/wangs7/mypow/include/mypow.h
